@@ -1,0 +1,53 @@
+body{
+	background-color: pink;
+}
+
+#wrapper{
+	background-color: grey;
+	height: 600px;
+	width: 1000px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+#title{
+	background-color: white;
+	height: 100px;
+	width: 1000px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+}
+
+#picture{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: 70px;
+}
+
+#fortune{
+	width: 640px;
+	height: 490px;
+	background-color: silver;
+	float: right;
+	text-align: center;
+}
+
+#btnGetFortune{
+	margin: 0 auto;
+	cursor: pointer;
+	cursor: hand;
+	border: dashed;
+	height: 100px; 
+	width: 200px; 
+
+}
+
+#txtFortune{
+	width: 400px;
+	margin-top: 50px;
+	margin-bottom: 200px; 
+	display: inline-block;
+
+}
